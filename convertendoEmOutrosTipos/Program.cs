@@ -14,6 +14,7 @@ class Programa
         long x = 20000000000;
         Console.WriteLine(x);
 
+        //O short é um tipo de variável de 16 bits
         short y = 20000;
         Console.WriteLine(y);
 
