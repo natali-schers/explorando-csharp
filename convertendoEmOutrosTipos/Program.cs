@@ -4,6 +4,8 @@ class Programa
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Projeto 4 - Convertendo Variáveis Numéricas");
+
         double salario = 3000.15;
         Console.WriteLine(salario);
 
@@ -14,6 +16,7 @@ class Programa
         long x = 20000000000;
         Console.WriteLine(x);
 
+        //O short é um tipo de variável de 16 bits
         short y = 20000;
         Console.WriteLine(y);
 
