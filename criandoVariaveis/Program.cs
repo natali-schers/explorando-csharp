@@ -4,9 +4,13 @@ class Programa
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Projeto 1 - Hello World");
+        Console.WriteLine("Projeto 2 - Criando Variáveis Int");
 
-        Console.WriteLine("Hello, World!");
+        int idade;
+        idade = 17;
+
+        Console.WriteLine("Minha idade é: " + idade + ".");
+
         Console.WriteLine("Tecle ENTER para fechar...");
         Console.ReadLine();
     }
