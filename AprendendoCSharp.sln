@@ -9,11 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "criandoVariaveisInt", "cria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "criandoVariaveisDouble", "criandoVariaveisDouble\criandoVariaveisDouble.csproj", "{F9DE4525-85C2-4475-90BA-CD18049F2F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertendoEmOutrosTipos", "convertendoEmOutrosTipos\convertendoEmOutrosTipos.csproj", "{A08C486C-D17F-4C5D-8575-F866B0210EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "convertendoEmOutrosTipos", "convertendoEmOutrosTipos\convertendoEmOutrosTipos.csproj", "{A08C486C-D17F-4C5D-8575-F866B0210EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caracteresETextos", "caracteresETextos\caracteresETextos.csproj", "{DE305FB8-63D9-4964-B147-73164F852AC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "caracteresETextos", "caracteresETextos\caracteresETextos.csproj", "{DE305FB8-63D9-4964-B147-73164F852AC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atribuicoesDeVariaveis", "atribuicoesDeVariaveis\atribuicoesDeVariaveis.csproj", "{63F00F88-055C-4DBC-87CF-4C03F60114FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atribuicoesDeVariaveis", "atribuicoesDeVariaveis\atribuicoesDeVariaveis.csproj", "{63F00F88-055C-4DBC-87CF-4C03F60114FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionais", "condicionais\condicionais.csproj", "{83FFFE51-B082-44F3-AF44-AEA0E0DF7525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionaisII", "condicionaisII\condicionaisII.csproj", "{81B78DBB-918F-41E0-A1BF-394BB9ED6F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escopo", "escopo\escopo.csproj", "{4FE595C8-D90B-439D-9619-1625FCC138D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atvddAliquotaComIfs", "atvddAliquotaComIfs\atvddAliquotaComIfs.csproj", "{49F7AB57-1257-41B9-9BF3-7AD8DAF792BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{B4B0484C-644D-40EF-872B-A9BC11D59A08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{63F00F88-055C-4DBC-87CF-4C03F60114FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63F00F88-055C-4DBC-87CF-4C03F60114FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63F00F88-055C-4DBC-87CF-4C03F60114FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FFFE51-B082-44F3-AF44-AEA0E0DF7525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FFFE51-B082-44F3-AF44-AEA0E0DF7525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FFFE51-B082-44F3-AF44-AEA0E0DF7525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FFFE51-B082-44F3-AF44-AEA0E0DF7525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B78DBB-918F-41E0-A1BF-394BB9ED6F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B78DBB-918F-41E0-A1BF-394BB9ED6F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B78DBB-918F-41E0-A1BF-394BB9ED6F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B78DBB-918F-41E0-A1BF-394BB9ED6F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE595C8-D90B-439D-9619-1625FCC138D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE595C8-D90B-439D-9619-1625FCC138D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE595C8-D90B-439D-9619-1625FCC138D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE595C8-D90B-439D-9619-1625FCC138D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F7AB57-1257-41B9-9BF3-7AD8DAF792BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F7AB57-1257-41B9-9BF3-7AD8DAF792BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F7AB57-1257-41B9-9BF3-7AD8DAF792BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F7AB57-1257-41B9-9BF3-7AD8DAF792BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B0484C-644D-40EF-872B-A9BC11D59A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B0484C-644D-40EF-872B-A9BC11D59A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B0484C-644D-40EF-872B-A9BC11D59A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B0484C-644D-40EF-872B-A9BC11D59A08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
